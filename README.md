@@ -65,6 +65,13 @@ Please feel free to explore them for now and we will continue to update the read
 If you find this repo useful for your research, please consider citing our paper:
 
 ```
+@inproceedings{wen2022slotcon,
+  title={Self-Supervised Visual Representation Learning with Semantic Grouping},
+  author={Wen, Xin and Zhao, Bingchen and Zheng, Anlin and Zhang, Xiangyu and Qi, Xiaojuan},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2022}
+}
+
 @inproceedings{wen2025slotmim,
   title={A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning},
   author={Wen, Xin and Zhao, Bingchen and Chen, Yilun and Pang, Jiangmiao and Qi, Xiaojuan},
