@@ -1,0 +1,14 @@
+output
+output_dir
+ckpts
+cache
+transfer/detection/datasets
+transfer/segmentation/data
+transfer/segmentation/work_dirs
+__pycache__/
+.ipynb_checkpoints
+distributed.yaml
+startup-hook.sh
+batchscript*
+*.out
+*.err
