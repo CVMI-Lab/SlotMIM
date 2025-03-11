@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/-CVPR%202025-367dbd">
-    <a href="https://arxiv.org/abs/2503.06960"><img src="https://img.shields.io/badge/arXiv-TBD-b31b1b"></a>
+    <a href="https://arxiv.org/abs/2503.06960"><img src="https://img.shields.io/badge/arXiv-2503.06960-b31b1b"></a>
     <a href="https://connecthkuhk-my.sharepoint.com/:f:/g/personal/xwen_connect_hku_hk/Eh8V7igWRhpBtFndEDRwYSgBKbo-tw4ZdkRdSt0hNTiPBQ?e=qx9b9c"><img src="https://img.shields.io/badge/ModelZoo-OneDrive-blue"></a>
   <a href="https://github.com/CVMI-Lab/SlotMIM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"></a>
 </p>
